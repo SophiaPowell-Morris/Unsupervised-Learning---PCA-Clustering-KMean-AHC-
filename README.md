@@ -1,4 +1,4 @@
-# uML[PCA, Clustering(KMean,AHC)]
+# uML - [PCA, Clustering(KMean,AHC)]
 
 A PCA is undertaken on the USArrests dataset to reduce the datasets dimensionality. Then KMeans and Agglomerative Hierarchical Clustering are implemented on the PCA dataset. The dataset used contains crime statistics per 100,000 and the percentage of urban population for each state . Scikit-learn was used for the clustering algorithms.
 
