@@ -1,4 +1,4 @@
-# uML - [PCA, Clustering(KMean,AHC)]
+# uML - US Arrests [PCA, Clustering(KMean,AHC)]
 
 A PCA is undertaken on the USArrests dataset to reduce the datasets dimensionality. Then the K-Means model and Agglomerative Hierarchical Clustering are implemented on the PCA dataset. 
 
